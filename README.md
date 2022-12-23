@@ -9,6 +9,11 @@ for UW-VIRT-FSF-PT-12-2022-U-LOLC-MTTH
 # GitHub Link
 https://github.com/mcbariekman/accessibility-of-horiseon-mockup_module-1_week1challenge
 
+# Application URL
+http://127.0.0.1:5500/index.html
+
+--
+
 # Acceptance 
 * GIVEN a webpage meets accessibility standards
 * WHEN I view the source code
