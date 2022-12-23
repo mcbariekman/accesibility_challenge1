@@ -4,7 +4,7 @@ for UW-VIRT-FSF-PT-12-2022-U-LOLC-MTTH
 
 # Screenshot
 * Live webpage
-![Live Page](./assets/images/screenshot.jpeg)
+![Live Page](./assets/images/live%20webpage.jpeg)
 
 # GitHub Link
 https://github.com/mcbariekman/accessibility-of-horiseon-mockup_module-1_week1challenge
